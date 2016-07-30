@@ -1,0 +1,24 @@
+1. Pelajari Design Pattern melalui buku atau website yang anda cari sendiri
+   terutama bagian Design Pattern Singleton (lakukan pada hari Sabtu dan Minggu)!
+
+2. Baca dan pelajari dengan seksama project java yang diberikan kemudian 		 
+   silakan gunakan seluruh method yang ada pada kelas Suami dan Istri. 
+   Penggunaan method wajib diletakkan pada kelas Main!
+
+3. Untuk Pria, isi nama suami dengan <<nim>>_<<nama_anda>> dan isi nama istri
+   dengan nama pasangan anda (bagi yang jomblo silakan tulis nama fiktif) sementara untuk Wanita lakukan sebaliknya.
+
+4. Gambarkan class diagram dari proyek java yang diberikan setelah anda tambahkan
+   percobaan di kelas Main!
+
+5. Apakah perbedaan mendasar mekanisme pada proyek java yang diberikan 
+   (menggunakan design pattern) dengan proyek java tanpa design pattern 
+   (seperti yang sering kita coba di kelas)? Apa pengaruh dari design
+   pattern yang digunakan?
+
+6. Sebutkan materi yang menurut anda paling anda suka dari RPL 2 (sebutkan pula 
+   alasannya) dan sebutkan 1 materi pengayaan baru yang perlu saya sampaikan pada
+   RPL 2 tahun depan (untuk adik kelas anda)?
+
+7. Untuk poin 1 silakan lakukan di rumah sedangkan untuk poin 2-6 konsepkan di
+   rumah dan untuk menjawabnya dilakukan di dalam kelas.
