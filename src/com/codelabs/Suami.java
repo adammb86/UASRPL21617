@@ -19,7 +19,7 @@ public class Suami {
         System.out.println("Halo, saya suami kamu");
     }
 
-    private static Suami getSuami(){
+    public static synchronized Suami getSuami(){
         if(suami==null)
             suami=new Suami();
 

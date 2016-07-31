@@ -20,7 +20,7 @@ public class Istri {
         System.out.println("Halo, saya istri kamu!");
     }
 
-    private static synchronized Istri getIstri(){
+    public static synchronized Istri getIstri(){
         if(istri==null)
             istri=new Istri();
 
